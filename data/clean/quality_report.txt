@@ -1,0 +1,12 @@
+Total rows: 175
+
+Match status:
+  NO_MATCH           85  (49%)
+  NOVEL_OK           64  (37%)
+  NOVEL_REVIEW       16  (9%)
+  ADAPTATION_ONLY     6  (3%)
+  DUPLICATE           4  (2%)
+
+Rows with genres:        70 (40%)
+Rows with public rating: 44 (25%)
+Rows in review log:      111
